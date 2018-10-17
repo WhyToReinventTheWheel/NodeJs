@@ -7,6 +7,7 @@
 - https://www.npmjs.com/package/validator
 - https://www.npmjs.com/package/yargs
 - https://www.npmjs.com/package/crypto-js
+- https://www.npmjs.com/package/jsonwebtoken
 ```
 var crypto = require('crypto-js');
 var secretMessage = {
