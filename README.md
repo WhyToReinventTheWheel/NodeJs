@@ -8,6 +8,8 @@
 - https://www.npmjs.com/package/yargs
 - https://www.npmjs.com/package/crypto-js
 - https://www.npmjs.com/package/jsonwebtoken
+- https://www.npmjs.com/package/opossum
+
 ```
 var crypto = require('crypto-js');
 var secretMessage = {
