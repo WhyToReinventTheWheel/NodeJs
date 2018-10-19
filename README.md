@@ -12,6 +12,9 @@
 - https://www.npmjs.com/package/express-http-context
 - https://solidgeargroup.com/express-logging-global-unique-request-identificator-nodejs
 - https://www.npmjs.com/package/winston
+- https://www.npmjs.com/package/log4js
+
+
 ```
 var crypto = require('crypto-js');
 var secretMessage = {
