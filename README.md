@@ -11,6 +11,7 @@
 - https://www.npmjs.com/package/opossum
 - https://www.npmjs.com/package/express-http-context
 - https://solidgeargroup.com/express-logging-global-unique-request-identificator-nodejs
+- https://www.npmjs.com/package/winston
 ```
 var crypto = require('crypto-js');
 var secretMessage = {
