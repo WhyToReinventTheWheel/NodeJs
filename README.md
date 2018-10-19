@@ -9,7 +9,8 @@
 - https://www.npmjs.com/package/crypto-js
 - https://www.npmjs.com/package/jsonwebtoken
 - https://www.npmjs.com/package/opossum
-
+- https://www.npmjs.com/package/express-http-context
+- https://solidgeargroup.com/express-logging-global-unique-request-identificator-nodejs
 ```
 var crypto = require('crypto-js');
 var secretMessage = {
