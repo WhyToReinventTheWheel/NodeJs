@@ -13,7 +13,7 @@
 - https://solidgeargroup.com/express-logging-global-unique-request-identificator-nodejs
 - https://www.npmjs.com/package/winston
 - https://www.npmjs.com/package/log4js
-
+- https://footballpool.dataaccess.eu/info.wso?WSDL
 
 ```
 var crypto = require('crypto-js');
