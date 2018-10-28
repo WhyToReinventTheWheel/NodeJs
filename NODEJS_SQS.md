@@ -1,4 +1,4 @@
-- Java SQS 
+- Java SQS: 
     https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/java/example_code/sqs/src/main/java/aws/example/sqs
 
 - Install AWS SDK
