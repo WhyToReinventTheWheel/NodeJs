@@ -3,6 +3,7 @@
 
 - Install AWS SDK
 ```
+    npm aws-sdk --save
     "aws-sdk": ""
 ```
 - Setup Config config.json
