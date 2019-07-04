@@ -14,6 +14,7 @@
 - https://www.npmjs.com/package/winston
 - https://www.npmjs.com/package/log4js
 - https://footballpool.dataaccess.eu/info.wso?WSDL
+- https://www.npmjs.com/package/delve
 
 ```
 var crypto = require('crypto-js');
